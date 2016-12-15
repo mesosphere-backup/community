@@ -1,4 +1,6 @@
 # DC/OS Community
+Welcome to the DC/OS community repo. Here you can learn more about the current activities of the community and browse the archives.
+
 ## Working Groups
 
 | Topic | Leads | [Slack Channel](http://chat.dcos.io/) | Mailing List | [Future Meetings](https://calendar.google.com/calendar/embed?src=mesosphere.io_1iu6qkkrmnghb61ntfrp5fc46o%40group.calendar.google.com&ctz=America/Los_Angeles) |
@@ -11,3 +13,6 @@
 
 Email [Aaron Williams](mailto:aaron.williams@dcos.io) on the PMC to propose a new working group.
 
+## The PMC
+
+The [Project Management Committee (PMC)](pmc) is charged with the management of the overall OSS project. Slides, notes, and a recording of each meeting of the PMC are made available in this repo.
