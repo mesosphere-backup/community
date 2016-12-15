@@ -11,7 +11,8 @@ Welcome to the DC/OS community repo. Here you can learn more about the current a
 | SDK | ![Chris Lambert](https://avatars3.githubusercontent.com/u/19239758?v=3&s=35) Chris Lambert, Mesosphere <br> [email](mailto:clambert@mesosphere.io), [Twitter](https://twitter.com/clambert), [GitHub](https://github.com/triclambert) | #sdk-wg | [Google Group](https://groups.google.com/a/dcos.io/forum/#!forum/sdk-wg) | coming soon |
 | UX | ![Lee Munroe](https://avatars3.githubusercontent.com/u/15963?v=3&s=35) Lee Munroe, Mesosphere <br> [email](mailto:lee@mesosphere.io), [Twitter](https://twitter.com/leemunroe), [GitHub](https://github.com/leemunroe) | #ux-wg | [Google Group](https://groups.google.com/a/dcos.io/forum/#!forum/ux-wg) | coming soon |
 
-Email [Aaron Williams](mailto:aaron.williams@dcos.io) on the PMC to propose a new working group.
+### New Working Groups
+Email [Aaron Williams](mailto:aaron.williams@dcos.io) to propose a new working group.
 
 ## The PMC
 
