@@ -14,6 +14,8 @@ Welcome to the DC/OS community repo. Here you can learn more about the current a
 ### New Working Groups
 Email [Aaron Williams](mailto:aaron.williams@dcos.io) to propose a new working group.
 
-## The PMC
+## DC/OS Office Hours
+Every Thursday, join our community manager, [Judith Malnick](jmalnick@mesosphere.io), and other community members for office hours. Join the [Meetup](https://www.meetup.com/DC-OS-Online-Meetup/) to register for upcoming sessions, or check out the [DC/OS YouTube channel](https://www.youtube.com/playlist?list=PLVWqoBEzghqdpHYXcOESRPLJseA6cRT_q) to see previously recorded sessions.
 
+## The PMC
 The [Project Management Committee (PMC)](pmc) is charged with the management of the overall OSS project. Slides, notes, and a recording of each meeting of the PMC are made available in this repo.
