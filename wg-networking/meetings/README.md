@@ -11,4 +11,4 @@ Monday, January 9 @ 11:00 PT <br>
 
 | Date | Agenda | Slides | Recording |
 |------|--------|--------|-----------|
-| Dec 19 2016 | 1. Charter for this working group and where we currently stand with the existing work <br> 2. DC/OS 1.9 preview: features that are coming and how to help test and validate <br> 3. DC/OS 1.10 roadmap exploration <br> 4. Proposed meeting schedule for Jan and Feb <br> 5. Q&A | [Slides](2016 12 19 DC_OS Networking Working Group Slides.pdf) | coming soon |
+| Dec 19 2016 | 1. Charter for this working group and where we currently stand with the existing work <br> 2. DC/OS 1.9 preview: features that are coming and how to help test and validate <br> 3. DC/OS 1.10 roadmap exploration <br> 4. Proposed meeting schedule for Jan and Feb <br> 5. Q&A | [PDF](2016 12 19 DC_OS Networking Working Group Slides.pdf) | [YouTube](https://www.youtube.com/watch?v=8ErRSWJU-_s) |
