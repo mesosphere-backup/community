@@ -5,6 +5,7 @@ Monday, January 9 @ 11:00 PT <br>
 ### Proposed Agenda:
 1. Feedback from first trials of 1.9
 2. Review of first design docs for 1.10
+ * [DC/OS Overlay Design Document](https://github.com/dcos/community/tree/master/wg-networking/design/overlay)
 3. Q&A
 
 # Previous Meetings
