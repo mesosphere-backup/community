@@ -1,7 +1,7 @@
 # Next Meeting
 Monday, January 9 @ 11:00 PT <br>
 [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWV2MzBtbDUwMmlzY3JhZjQ2cHY2OG5samtfMjAxNzAxMDlUMTkwMDAwWiBtZXNvc3BoZXJlLmlvXzFpdTZxa2tybW5naGI2MW50ZnJwNWZjNDZvQGc&tmsrc=mesosphere.io_1iu6qkkrmnghb61ntfrp5fc46o%40group.calendar.google.com) <br>
-[Join the Meeting]()
+[Join the Meeting](https://zoom.us/j/5214852707)
 ### Proposed Agenda:
 1. Feedback from first trials of 1.9
 2. Review of first design docs for 1.10
