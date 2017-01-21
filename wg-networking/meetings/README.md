@@ -3,7 +3,9 @@ Monday, January 23 @ 11:00 PT <br>
 [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWV2MzBtbDUwMmlzY3JhZjQ2cHY2OG5samtfMjAxNzAxMjNUMTkwMDAwWiBtZXNvc3BoZXJlLmlvXzFpdTZxa2tybW5naGI2MW50ZnJwNWZjNDZvQGc&tmsrc=mesosphere.io_1iu6qkkrmnghb61ntfrp5fc46o%40group.calendar.google.com) <br>
 [Join the Meeting](https://zoom.us/j/5214852707)
 ### Proposed Agenda:
-1. Q&A
+1. Discussion on [3rd party network integration into DC/OS using CNI](https://docs.google.com/document/d/1JUL5ANHspERQkjplie94GVfXs9KOFaCZOMDUJRu8fr8/edit#heading=h.gjdets4ennoh)
+2. Discussion on API for defining network policies in DC/OS.
+3. Q&A
 
 # Previous Meetings
 
