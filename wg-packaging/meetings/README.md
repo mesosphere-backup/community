@@ -1,5 +1,6 @@
 # Next Meeting
-Tuesday, January 24 @ 09:00 PT <br>
+CANCELED: Tuesday, January 24 @ 09:00 PT <br>
+NEXT: Tuesday, February 28th @ 09:00 PT <br>
 [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=aWZqZ2sxaXN2OHA4N2k5NGNhOGZlamJnNTRfMjAxNzAxMjRUMTcwMDAwWiBtZXNvc3BoZXJlLmlvXzFpdTZxa2tybW5naGI2MW50ZnJwNWZjNDZvQGc&tmsrc=mesosphere.io_1iu6qkkrmnghb61ntfrp5fc46o%40group.calendar.google.com) <br>
 [Join the Meeting](
 https://zoom.us/j/5214852707)
