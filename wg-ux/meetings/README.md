@@ -15,3 +15,4 @@ Thursday, January 12 @ 08:30 PT <br>
 
 | Date | Agenda | Slides | Recording |
 |------|--------|--------|-----------|
+|Jan. 12, 2017|||[YouTube](https://www.youtube.com/watch?v=0ZQQ6ezW1oQ&list=PLVWqoBEzghqcR8xrc1jHr3Fh12yqXS67a)|
