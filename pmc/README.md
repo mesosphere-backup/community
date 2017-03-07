@@ -3,7 +3,7 @@ The Project Management Committee (PMC) of DC/OS is a group of committers charged
 
 ## Meetings of the PMC
 * **Next Meeting:** being scheduled
-* [Friday, December 9, 2016](meetings/2016-12-09)
+* [Tuesday, March 7, 2017](meetings/2017-03-07)
 
 ## Members of the PMC
 ![Ben Hindman](https://avatars3.githubusercontent.com/u/25567?v=3&s=100)  Ben Hindman, Mesosphere | [email](mailto:benh@mesosphere.io) | [Twitter](https://twitter.com/benh) | [Github](https://github.com/benh) <br>
