@@ -1,5 +1,5 @@
 # Next Meeting
-Monday, March 6 @ 11:00 PT <br>
+Monday, March 20 @ 11:00 PT <br>
 [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWV2MzBtbDUwMmlzY3JhZjQ2cHY2OG5samtfMjAxNzAxMjNUMTkwMDAwWiBtZXNvc3BoZXJlLmlvXzFpdTZxa2tybW5naGI2MW50ZnJwNWZjNDZvQGc&tmsrc=mesosphere.io_1iu6qkkrmnghb61ntfrp5fc46o%40group.calendar.google.com) <br>
 [Join the Meeting](https://zoom.us/j/5214852707)
 
@@ -11,6 +11,7 @@ Monday, March 6 @ 11:00 PT <br>
 
 | Date | Agenda | Docs | Recording |
 |------|--------|--------|-----------|
+| March 6 2017 | 1. Discussed DC/OS 1.9 EA <br> 2. CNI improvements in 1.9 <br> 3. Flushed out how network policies would like in DC/OS. | [Slides](https://docs.google.com/a/mesosphere.io/presentation/d/1ZJiA0Z4E_jVVdJLq1EId8gfZWIQN4mb-7xvUTuUOiM0/edit?usp=sharing)
 | Feb 6 2017 | Had a discussion on network policies in DC/OS. | [Google doc](https://docs.google.com/document/d/1sJRLZtkZB5cTNaeE4mWTa9hn-mrQHAesl5mxRB2EdVQ/edit?usp=sharing) |
 | Jan 23 2017 | Had a discussion on what 3rd party network integration would look like in DC/OS.  | [Google doc](https://docs.google.com/document/d/1JUL5ANHspERQkjplie94GVfXs9KOFaCZOMDUJRu8fr8/edit#heading=h.c6ln93w98xrz) |
 | Jan 9 2017 | 1. Update on the release of 1.9 <br> 2. Review of design docs <br> - [DC/OS Overlay Design Document](https://github.com/dcos/community/tree/master/wg-networking/design/overlay) <br> 3. Review/Feedback [Named VIP workflow doc](https://docs.google.com/document/d/1IzBuRAU122Y4-AZTXKix9UptG3yOZGHantTpYhr7-Lc/edit?usp=sharing) <br> - Where else is an urgent need for documentation (e.g., Spartan, Navstar)? <br> 4. Q&A | none for this meeting | [YouTube](https://youtu.be/Is-N2_TtHoE) |
