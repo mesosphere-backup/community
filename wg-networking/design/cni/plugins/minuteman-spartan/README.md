@@ -4,8 +4,8 @@ virtual networks that want to completely isolate the containers network
 namespace fromt he host network namespace.
 
 # Owners
-[![](../../images/GitHub-Mark-32px.png)](https://github.com/GoelDeepak) Deepak Goel<br>
-[![](../../images/GitHub-Mark-32px.png)](https://github.com/asridharan) Avinash Sridharan<br>
+[![](../../../../images/GitHub-Mark-32px.png)](https://github.com/GoelDeepak) Deepak Goel<br>
+[![](../../../../images/GitHub-Mark-32px.png)](https://github.com/asridharan) Avinash Sridharan<br>
 
 
 # Design
