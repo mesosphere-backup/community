@@ -10,7 +10,7 @@ namespace fromt he host network namespace.
 
 
 # Design
-You can view and comment on the design of the DC/OS overlay on the
+You can view and comment on the design of the minuteman/spartan CNI plugin on the
 [Google doc](https://goo.gl/xBUc71) or the [online
 version](https://goo.gl/MuWMwz) of 0this
 document.
