@@ -11,6 +11,7 @@ Monday, March 20 @ 11:00 PT <br>
 
 | Date | Agenda | Docs | Recording |
 |------|--------|--------|-----------|
+| March 20 2017 | Presentation on minuteman improvements in 1.9 | [Slides](https://docs.google.com/presentation/d/1KkyQL_kibE3O6OovvGT_06W-4c3BSxDpDZo5w3kB7Bk/edit?usp=sharing) | [Youtube](https://www.youtube.com/watch?v=0tQjdllhWow&feature=youtu.be)
 | March 6 2017 | 1. Discussed DC/OS 1.9 EA <br> 2. CNI improvements in 1.9 <br> 3. Flushed out how network policies would like in DC/OS. | [Slides](https://docs.google.com/a/mesosphere.io/presentation/d/1ZJiA0Z4E_jVVdJLq1EId8gfZWIQN4mb-7xvUTuUOiM0/edit?usp=sharing) | [Youtube](https://youtu.be/WbN8a2iS4CE)
 | Feb 6 2017 | Had a discussion on network policies in DC/OS. | [Google doc](https://docs.google.com/document/d/1sJRLZtkZB5cTNaeE4mWTa9hn-mrQHAesl5mxRB2EdVQ/edit?usp=sharing) |
 | Jan 23 2017 | Had a discussion on what 3rd party network integration would look like in DC/OS.  | [Google doc](https://docs.google.com/document/d/1JUL5ANHspERQkjplie94GVfXs9KOFaCZOMDUJRu8fr8/edit#heading=h.c6ln93w98xrz) |
