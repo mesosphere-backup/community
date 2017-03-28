@@ -17,4 +17,4 @@ Join our #wg-ux channel on Slack to access a 1.9 preview cluster.
 | Date | Agenda | Slides | Recording |
 |------|--------|--------|-----------|
 |Jan. 12, 2017|||[YouTube](https://www.youtube.com/watch?v=0ZQQ6ezW1oQ&list=PLVWqoBEzghqcR8xrc1jHr3Fh12yqXS67a)|
-|Mar.3, 2017| ||[YouTube](https://youtu.be/tmxWP6SPfDY?list=PLVWqoBEzghqcR8xrc1jHr3Fh12yqXS67a)
+|Mar.3, 2017| ||[YouTube](https://youtu.be/tmxWP6SPfDY?list=PLVWqoBEzghqcR8xrc1jHr3Fh12yqXS67a)|
