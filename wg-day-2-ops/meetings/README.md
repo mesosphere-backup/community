@@ -10,3 +10,4 @@ If you have agenda items to propose, please do so through the #day-2-ops-wg [sla
 | Date | Agenda | Slides | Recording |
 |------|--------|--------|-----------|
 | Jan 6 2017 | 1. Charter for this working group <br> 2. DC/OS 1.9 preview: features that are coming and how to help test and validate <br> 3. Proposed meeting schedule for 2017 <br> 4. Q&A | [PDF](2017 01 06 DC_OS Day 2 Ops Working Group Meeting Slides.pdf) | [YouTube](https://www.youtube.com/watch?v=KlquL3ELpVs) |
+| March 7 2017 | ||[YouTube](https://youtu.be/ykPtCvqSVEU?list=PLVWqoBEzghqcXot83lXTreTacEeJ5suLi)|
