@@ -1,5 +1,4 @@
 # Next Meeting
-Monday, April 17 @ 11:00 PT <br>
 [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWV2MzBtbDUwMmlzY3JhZjQ2cHY2OG5samtfMjAxNzAxMjNUMTkwMDAwWiBtZXNvc3BoZXJlLmlvXzFpdTZxa2tybW5naGI2MW50ZnJwNWZjNDZvQGc&tmsrc=mesosphere.io_1iu6qkkrmnghb61ntfrp5fc46o%40group.calendar.google.com) <br>
 [Join the Meeting](https://zoom.us/j/5214852707)
 
@@ -11,6 +10,7 @@ Monday, April 17 @ 11:00 PT <br>
 
 | Date | Agenda | Docs | Recording |
 |------|--------|--------|-----------|
+| April 17 2017 | 1. Update on minuteman and spartan CNI plugins for DC/OS 1.10. [Avinash] 2. Some updates from the Linux Open network summit 2017. [Avinash] 3. Change the frequency of networking-wg sessions from bi-weekly to monthly? [Avinash]| | [Youtube](https://youtu.be/ZOqUE_Olr2M) |
 | March 20 2017 | Presentation on minuteman improvements in 1.9 | [Slides](https://docs.google.com/presentation/d/1KkyQL_kibE3O6OovvGT_06W-4c3BSxDpDZo5w3kB7Bk/edit?usp=sharing) | [Youtube](https://www.youtube.com/watch?v=0tQjdllhWow&feature=youtu.be)
 | March 6 2017 | 1. Discussed DC/OS 1.9 EA <br> 2. CNI improvements in 1.9 <br> 3. Flushed out how network policies would like in DC/OS. | [Slides](https://docs.google.com/a/mesosphere.io/presentation/d/1ZJiA0Z4E_jVVdJLq1EId8gfZWIQN4mb-7xvUTuUOiM0/edit?usp=sharing) | [Youtube](https://youtu.be/WbN8a2iS4CE)
 | Feb 6 2017 | Had a discussion on network policies in DC/OS. | [Google doc](https://docs.google.com/document/d/1sJRLZtkZB5cTNaeE4mWTa9hn-mrQHAesl5mxRB2EdVQ/edit?usp=sharing) ||
