@@ -10,7 +10,10 @@
 
 | Date | Agenda | Docs | Recording |
 |------|--------|--------|-----------|
-| April 17 2017 | 1. Update on minuteman and spartan CNI plugins for DC/OS 1.10. [Avinash] 2. Some updates from the Linux Open network summit 2017. [Avinash] 3. Change the frequency of networking-wg sessions from bi-weekly to monthly? [Avinash]| | [Youtube](https://youtu.be/ZOqUE_Olr2M) |
+| Aug 21 2017| 1. Discussion on operational semantics of tying CNI config to virtual networks. <br> 2. Progress report on CNI configuration service. <br> | [Slides](https://docs.google.com/presentation/d/1_TBBqGohNX7UJ9Z__TTBgeQpo4yDj8lGmaimq_xVZfI/edit#slide=id.g1aab1c5c4e_0_0)| Pending|
+| June 19 2017 | 1. CNI configuration service design doc. [Deepak] <br>| [Google Doc](https://docs.google.com/document/d/19o1Ub-FZwHdUv0FpMXXTk8Ue9ZYcZq8zO5GSSlL8T0c/edit) | [Youtube](https://youtu.be/xnsfxY0ijGM) |
+| May 15 2017 | 1. Update on IPv6 in DC/OS. | Notes captured in meeting minutes | No Recording |
+| April 17 2017 | 1. Update on minuteman and spartan CNI plugins for DC/OS 1.10. <br> 2. Some updates from the Linux Open network summit 2017. <br> 3. Change the frequency of networking-wg sessions from bi-weekly to monthly?|[Google Doc](https://docs.google.com/document/d/1xxvkFknC56hF-EcDmZ9tzKsGiZdGKBUPfrPKYs85j1k/edit) | [Youtube](https://youtu.be/ZOqUE_Olr2M) |
 | March 20 2017 | Presentation on minuteman improvements in 1.9 | [Slides](https://docs.google.com/presentation/d/1KkyQL_kibE3O6OovvGT_06W-4c3BSxDpDZo5w3kB7Bk/edit?usp=sharing) | [Youtube](https://www.youtube.com/watch?v=0tQjdllhWow&feature=youtu.be)
 | March 6 2017 | 1. Discussed DC/OS 1.9 EA <br> 2. CNI improvements in 1.9 <br> 3. Flushed out how network policies would like in DC/OS. | [Slides](https://docs.google.com/a/mesosphere.io/presentation/d/1ZJiA0Z4E_jVVdJLq1EId8gfZWIQN4mb-7xvUTuUOiM0/edit?usp=sharing) | [Youtube](https://youtu.be/WbN8a2iS4CE)
 | Feb 6 2017 | Had a discussion on network policies in DC/OS. | [Google doc](https://docs.google.com/document/d/1sJRLZtkZB5cTNaeE4mWTa9hn-mrQHAesl5mxRB2EdVQ/edit?usp=sharing) ||
