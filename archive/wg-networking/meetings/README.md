@@ -1,6 +1,6 @@
 # Next Meeting
 [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=ZWV2MzBtbDUwMmlzY3JhZjQ2cHY2OG5samtfMjAxNzAxMjNUMTkwMDAwWiBtZXNvc3BoZXJlLmlvXzFpdTZxa2tybW5naGI2MW50ZnJwNWZjNDZvQGc&tmsrc=mesosphere.io_1iu6qkkrmnghb61ntfrp5fc46o%40group.calendar.google.com) <br>
-[Join the Meeting(https://zoom.us/j/776533269)
+[Join the Meeting](https://zoom.us/j/776533269)
 
 ### Proposed Agenda:
 * The agenda for each meeting is listed in this [Google doc](https://docs.google.com/document/d/1lsKB9sFqbRLVt75F353887AH-BQ8IYd-hhhl1Yt-12o/edit). Participants who want to propose an agenda can do so by commenting on the agenda for a given meeting.
